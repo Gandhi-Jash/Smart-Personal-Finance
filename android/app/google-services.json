@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30139216918",
+    "firebase_url": "https://smart-personal-finance.firebaseio.com",
+    "project_id": "smart-personal-finance",
+    "storage_bucket": "smart-personal-finance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30139216918:android:7c73f8a46f76b5cd947137",
+        "android_client_info": {
+          "package_name": "com.spf.smart_personal_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30139216918-crscs0uo4d3sop3pdba7jrfpds3slktd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdX5s4I1F5ibKAaodu8sJt4t6zhzZJv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30139216918-crscs0uo4d3sop3pdba7jrfpds3slktd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
